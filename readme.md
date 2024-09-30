@@ -2,6 +2,16 @@
 
 This project aims to classify the sentiment polarity (positive or negative) of text using two machine learning models: **Support Vector Machine (SVM)** and **Naive Bayes (NB)**. The classification is performed using the Term Frequency-Inverse Document Frequency (TF-IDF) technique for feature extraction from text.
 
+## How to run the code
+1. Clone the Repository
+2. Navigate to the Project Directory
+3. Install Dependencies pip install -r requirements.txt
+4. Place the Dataset
+5. python sentiment.py
+6. View the Results
+
+
+
 ## Project Structure
 - `positive.csv`: File containing positive sentiment texts.
 - `negative.csv`: File containing negative sentiment texts.
