@@ -6,8 +6,8 @@ This project aims to classify the sentiment polarity (positive or negative) of t
 1. Clone the Repository
 2. Navigate to the Project Directory
 3. Install Dependencies by pip install -r requirements.txt
-4. Run extract_data.py to extract the data from tar file
-5. Run make_csv.py to make the csv file from the extracted data.
+4. Run extract_data.py to extract the data from tar file(optional as i have already included csv files)
+5. Run make_csv.py to make the csv file from the extracted data(optional as i have already included csv files)
 7. Run python sentiment.py to execute the Model
 8. View the Results
 
